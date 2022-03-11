@@ -3,3 +3,9 @@
 # Create a variable called 'answer'.
 
 # Find the expression value assign to 'answer'. 2^n.
+
+n: int
+n = 4
+answer: int
+s = pow(2, n)
+answer = s
